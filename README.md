@@ -19,7 +19,12 @@ All seven seats on the community council are open for election:
 
 The above is a variant of opening four seats, with three seats ensuring continuity.
 
-As this is the first cohort of elected councilors, tenure will vary between 1 and 3 years, 3 seats with 3 years, and 2 each with 2 and 1 year.
+As this is the first cohort of elected councilors, tenure for the open positions will vary between 1 and 3 years. In particular there will be:
+* 3 seats open with a 3-year tenure.
+* 2 seats open with a 2-year tenure. 
+* 2 seats open with q 1-year tenure.
+
+[marrov: clarify here which of the above are elected by all contributors and which by current council?]
 
 Details here: TODO LINK
 
