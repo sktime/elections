@@ -4,9 +4,9 @@
 This section details the types of contributions expected for certain committee roles.
 
 ``sktime`` values contributions of any kind - not just code.
-Below are contributions to code and community.
+Below are examples of what ``sktime`` counts as contributions, either to code or community.
 
-The arbitration committee decides on criteria satisfaction, bound by precedent.
+The arbitration committee will have the final say on criteria satisfaction if any dispute were to arise, bound by precedent.
 A record of all such decisions must be publicly kept.
 
 We count as small contributions (code) any of:
