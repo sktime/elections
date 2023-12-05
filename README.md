@@ -56,7 +56,7 @@ Details here: TODO LINK
 
 All times are midnight UTC, end of the day.
 
-[marrov: timelines are outdated!]
+[marrov: timelines are outdated! I think voting should be complete by 20th Dec at the latest, so I am not sure we can fit the timelines below if shifted as voter/candidate registration needs to be open 2 weeks before. Proposal is close out over Dec, open registration and have voting in Jan.]
 
 * 2023-11-18 - voter and candidate registration completes.
   Candidate statements published.
