@@ -58,6 +58,8 @@ Details here: TODO LINK
 
 All times are midnight UTC, end of the day.
 
+[marrov: timelines are outdated!]
+
 * 2023-11-18 - voter and candidate registration completes.
   Candidate statements published.
 * until 2023-11-25 - candidate Q&A on GitHub
