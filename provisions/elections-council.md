@@ -77,7 +77,7 @@ There is no contribution requirement for eligibility, as members are already ass
 
 1. Formal requirements
 
-    i. candidates must be eligible to 
+    i. candidates must be eligible to [marrov: sentence seems incomplete?]
 
     ii. candidates must have registered in time
 
@@ -100,5 +100,4 @@ There is no contribution requirement for eligibility, as members are already ass
 
 3. Contribution requirement:
 
-candidates must have made substantial code or community contributions in the 18 months leading up to the election period,
-as defined in the contribution requirements document.
+candidates must have made substantial code or community contributions in the 18 months leading up to the election period, as defined in the contribution requirements document. [marrov: add link to contribution requirements]
