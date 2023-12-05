@@ -24,8 +24,6 @@ As this is the first cohort of elected councilors, tenure for the open positions
 * 2 seats open with a 2-year tenure. 
 * 2 seats open with q 1-year tenure.
 
-[marrov: clarify here which of the above are elected by all contributors and which by current council?]
-
 Details here: TODO LINK
 
 ## What are the rights and duties of councilors?
