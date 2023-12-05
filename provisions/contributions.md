@@ -48,7 +48,7 @@ We count as substantial contributions (community) any of:
 * organizing a series of workstream or roadmap meetings that lead to successful STEP and PR
 * acquiring funding in the order of 1 year of maintainer position, under strategic control of the ``sktime`` community
 * leading on a relevant workstream of administrative proceedings, e.g., drafting a contract, giving legal advice
-* carrying out one of the management team roles for at least 6 months according to expectation and specification
+* carrying out one of the management team roles for at least 6 months according to expectation and specification [marrov: "management team role" is not clearly defined afaik - is it worth to clarify?]
 
 We count as substantial contributions any of:
 
