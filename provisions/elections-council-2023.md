@@ -25,6 +25,8 @@ Seats are filled in this order:
 
 ### Vote tallying algorithm
 
+[marrov: why is there a different preference list for general electorate vs council (4 vs 3)? If there is no clear benefit in making this distinction I would do top 3 for both which feels more natural in ranking election preferences.]
+
 Each voter from the general electorate fills in four polls:
 
 * selecting top preference from all candidates
