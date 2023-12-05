@@ -48,9 +48,13 @@ will finalize the election provisions.
 
 5. Audit
 
+    [marrov: if auditing is mandatory, I worry that we may not have enough people to cover. Maybe add a point about what happens if auditing positions are not filled]
+
     i. In the interest of transparency and fairness, observers are to be appointed to audit the voting process.
 
     ii. The observers should include at least two representatives chosen by the arbitration committee.
+
+    [marrov: "If there is at least one such volunteer, one or two, if possible, ..." Is this sentence correct? I do not follow]
 
     iii. together with voter registration, voters from the general electorate may volunteer as observers. If there is at least one such volunteer, one or two, if possible, should be selected by a fair lot.
 
