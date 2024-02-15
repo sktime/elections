@@ -101,7 +101,7 @@ Examples for medium contributions (community) are:
 * organizing a presentation or workshop, optimally involving and mentoring new contributors to present.
   Importantly, this should include the "background work" of preparation of materials (abstract submission, notebooks etc),
   and the presentation should have community promoting character (not self-promoting).
-* donating the monetary equivalent of 10 hours median working wage of one's country of residence's,
+* donating the monetary equivalent of 10 hours median working wage of one's country of residence,
   or one's own wage, whichever lower, to an ``sktime`` charitable account.
   At most 3 such donations count towards contributions to prevent "buying influence" dynamics.
 
