@@ -120,7 +120,7 @@ Examples for substantial contributions (community) are:
 * taking on mentorship for a junior community member for at least 9 meetings, in one of the ``sktime`` mentoring or internship programmes
 * organizing a series of workstream or roadmap meetings that lead to successful STEP and PR
 * acquiring funding in the order of 1 year of maintainer position, under strategic control of the ``sktime`` community.
-  This should be fundraising rather than a direct donation.
+  This should be fundraising or grants application, rather than a direct donation.
 * leading on a relevant workstream of administrative proceedings, e.g., drafting a contract, giving legal advice
 * carrying out defined community roles with 1-2h weekly load for at least 6 months according to expectation and specification, e.g.:
 
