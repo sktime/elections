@@ -61,7 +61,7 @@ must be publicly kept to the maximal extent allowed by data protection regulatio
 
 #### Small contributions
 
-As a reference figure, substantial contributions are approximately a
+As a reference figure, a single small contribution is approximately a
 cumulative 2 working hour equivalent.
 
 We count as small contributions (code) any of:
@@ -80,7 +80,7 @@ We count as small contributions (community) any of:
 
 #### Medium contributions
 
-As a reference figure, substantial contributions are approximately a
+As a reference figure, a single medium contributions is approximately a
 cumulative 10 working hour equivalent.
 
 Examples for medium contributions (code) are:
@@ -108,7 +108,7 @@ Examples for medium contributions (community) are:
 #### Substantial contributions
 
 As a reference figure, substantial contributions are of a
-cumulative 50 working hour equivalent.
+cumulative 50 working hour equivalent or more.
 
 Where substantial contributions are referenced, they are typically considered
 within a time period - such time periods are part of the reference context.
