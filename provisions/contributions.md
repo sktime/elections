@@ -136,4 +136,4 @@ Examples for substantial contributions (technical) are:
 
 We count as substantial contributions any of:
 
-* more than 5 medium contributions in the period of any type. The overall contribution type(s) is/are determined by whichever type(s) reach(es) a count of 4 or more.
+* more than 5 medium contributions in the period of any type. The overall contribution type(s) is/are determined by whichever type(s) reach(es) a count of 3 or more.
