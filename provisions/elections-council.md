@@ -48,15 +48,11 @@ will finalize the election provisions.
 
 5. Audit
 
-    [marrov: if auditing is mandatory, I worry that we may not have enough people to cover. Maybe add a point about what happens if auditing positions are not filled]
-
     i. In the interest of transparency and fairness, observers are to be appointed to audit the voting process.
 
     ii. The observers should include at least two representatives chosen by the arbitration committee.
 
-    [marrov: "If there is at least one such volunteer, one or two, if possible, ..." Is this sentence correct? I do not follow]
-
-    iii. together with voter registration, voters from the general electorate may volunteer as observers. If there is at least one such volunteer, one or two, if possible, should be selected by a fair lot.
+    iii. together with voter registration, voters from the general electorate may volunteer as observers. If there is at least one such volunteer, then at least one or two observers should be selected by a fair lot from among the volunteers.
 
 
 #### eligibility to vote
@@ -77,7 +73,7 @@ There is no contribution requirement for eligibility, as members are already ass
 
 1. Formal requirements
 
-    i. candidates must be eligible to [marrov: sentence seems incomplete?]
+    i. candidates must be eligible to vote
 
     ii. candidates must have registered in time
 
