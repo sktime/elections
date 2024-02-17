@@ -123,7 +123,6 @@ Examples for substantial contributions (community) are:
   This should be fundraising or grants application, rather than a direct donation.
 * leading on a relevant workstream of administrative proceedings, e.g., drafting a contract, giving legal advice
 * carrying out defined community roles with 1-2h weekly load for at least 6 months according to expectation and specification, e.g.:
-
   * community council member
   * treasurer
   * fundraising manager
@@ -131,9 +130,7 @@ Examples for substantial contributions (community) are:
 Examples for substantial contributions (technical) are:
 
 * carrying out defined technical roles with 1-2h weekly load for at least 6 months according to expectation and specification, e.g.:
-
   * release manager
 
 We count as substantial contributions any of:
-
 * more than 5 medium contributions in the period of any type. The overall contribution type(s) is/are determined by whichever type(s) reach(es) a count of 3 or more.
