@@ -19,7 +19,10 @@ All seven seats on the community council are open for election:
 
 The above is a variant of opening four seats, with three seats ensuring continuity.
 
-As this is the first cohort of elected councilors, tenure will vary between 1 and 3 years, 3 seats with 3 years, and 2 each with 2 and 1 year.
+As this is the first cohort of elected councilors, tenure for the open positions will vary between 1 and 3 years. In particular there will be:
+* 3 seats open with a 3-year tenure.
+* 2 seats open with a 2-year tenure. 
+* 2 seats open with q 1-year tenure.
 
 Details here: TODO LINK
 
@@ -52,6 +55,8 @@ Details here: TODO LINK
 ## Timelines
 
 All times are midnight UTC, end of the day.
+
+[marrov: timelines are outdated! I think voting should be complete by 20th Dec at the latest, so I am not sure we can fit the timelines below if shifted as voter/candidate registration needs to be open 2 weeks before. Proposal is close out over Dec, open registration and have voting in Jan.]
 
 * 2023-11-18 - voter and candidate registration completes.
   Candidate statements published.

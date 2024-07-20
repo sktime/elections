@@ -25,6 +25,8 @@ Seats are filled in this order:
 
 ### Vote tallying algorithm
 
+[marrov: why is there a different preference list for general electorate vs council (4 vs 3)? If there is no clear benefit in making this distinction I would do top 3 for both which feels more natural in ranking election preferences.]
+
 Each voter from the general electorate fills in four polls:
 
 * selecting top preference from all candidates
@@ -62,18 +64,18 @@ Proceed with the four general electorate seats, using the same algorithm.
 
 ### Eligibility to vote
 
-i. voter registration completed in time
-ii. contributor with any contribution registered in `allcontributor-src`
-iii. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
+1. voter registration completed in time
+2. contributor with any contribution registered in `allcontributor-src`
+3. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
 
 
 ### Eligibility to be elected
 
-i. candidates must be eligible to vote
-ii. contributor with at least a "substantial" code or community contribution as defined in contribution requirements document
-iii. candidates must have registered in time
-iv. candidates must have submitted a candidate statement with their registration, intended for publication
-v. candidates must have truthfully declared their full name, primary affiliations, and any conflicts of interest in their candidate statement
+1. candidates must be eligible to vote
+2. contributor with at least a "substantial" code or community contribution as defined in contribution requirements document
+3. candidates must have registered in time
+4. candidates must have submitted a candidate statement with their registration, intended for publication
+5. candidates must have truthfully declared their full name, primary affiliations, and any conflicts of interest in their candidate statement
 
 
 TODO: link contributions doc in appropriate places

@@ -52,7 +52,7 @@ will finalize the election provisions.
 
     ii. The observers should include at least two representatives chosen by the arbitration committee.
 
-    iii. together with voter registration, voters from the general electorate may volunteer as observers. If there is at least one such volunteer, one or two, if possible, should be selected by a fair lot.
+    iii. together with voter registration, voters from the general electorate may volunteer as observers. If there is at least one such volunteer, then at least one or two observers should be selected by a fair lot from among the volunteers.
 
 
 #### eligibility to vote
@@ -73,7 +73,7 @@ There is no contribution requirement for eligibility, as members are already ass
 
 1. Formal requirements
 
-    i. candidates must be eligible to 
+    i. candidates must be eligible to vote
 
     ii. candidates must have registered in time
 
@@ -96,5 +96,4 @@ There is no contribution requirement for eligibility, as members are already ass
 
 3. Contribution requirement:
 
-candidates must have made substantial code or community contributions in the 18 months leading up to the election period,
-as defined in the contribution requirements document.
+candidates must have made substantial code or community contributions in the 18 months leading up to the election period, as defined in the contribution requirements document. [marrov: add link to contribution requirements]

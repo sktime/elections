@@ -3,11 +3,66 @@
 
 This section details the types of contributions expected for certain committee roles.
 
-``sktime`` values contributions of any kind - not just code.
-Below are contributions to code and community.
+#### Contributions - definition
 
-The arbitration committee decides on criteria satisfaction, bound by precedent.
-A record of all such decisions must be publicly kept.
+As qualitative guideline reference, a contributions refers to
+
+* work primarily towards the ``sktime`` project mission
+* within the ``sktime`` governance framework
+* not paid for by the ``sktime`` project
+
+Qualitative non-examples would be:
+
+* work that primarily serves a different purpose, e.g., (self-)promotion
+* work not coordinated with project representatives,
+  e.g., collecting funding or donations without authorization
+* work in a paid developer or mentee role
+
+Special non-examples:
+
+* community contributions only count if they involve a majority of community members
+  not from one's research group or direct network (by company affiliation
+  or academic family tree). Network promotion falls in the same category as
+  self-promotion. This is not forbidden, but does not count as contribution.
+* Code or community contributions related exclusively to concrete
+  estimators (or objects) owned by oneself and closely linked to corporate or academic
+  self-agenda do not count towards eligibility.
+  This is not forbidden, but does not count as contribution.
+* PR and repository changes pertaining to ``sktime`` governance do not
+  count towards code contributions, but they may count as community contributions
+  if subject to the ``sktime`` governance framework (e.g., voting and
+  decision making mechanisms).
+
+#### Contributions - scope
+
+``sktime`` values contributions of any kind - not just code.
+Contributions to operations and functioning of the community and the project
+as a whole are considered of at least equal importance.
+
+Below sections contain examples of what ``sktime`` counts as contributions,
+either to code or community, and magnitude of contributions.
+
+To ensure a good degree of objectivity, magnitude of contributions
+is tied to a working hour equivalent number, which is intended to be a
+plausible mirror of a contract worker's billing hours for the same task.
+
+#### Contributions - arbitration
+
+The arbitration committee will have the final say on criteria satisfaction if any
+dispute were to arise, strictly bound by precedent in accordance with
+legal best practices.
+
+In arbitration, the high-level guidance principles and reference figures
+should be applied. All other conditions being equal, decisions should
+be made in favour of the contributor.
+
+A record of all decisions and precendents by the arbitration committee
+must be publicly kept to the maximal extent allowed by data protection regulations.
+
+#### Small contributions
+
+As a reference figure, a single small contribution is approximately a
+cumulative 2 working hour equivalent.
 
 We count as small contributions (code) any of:
 
@@ -19,44 +74,63 @@ We count as small contributions (code) any of:
 We count as small contributions (community) any of:
 
 * answering a user question in one of the help/contributor channels (e.g., discord helpdesk) until user confirmation of answer
-* participating in 3 mentoring meetings as co-mentor, in one of the ``sktime`` mentoring or internship programmes
 * writing minutes in one of the ``sktime`` committee meetings
 * as committee member, attending meetings of the respective committee and being minuted as present
 * filling out and submitting the user registration form
 
-We count as medium contributions (code) any of:
+#### Medium contributions
 
-* at least 5 small code contributions
-* successfully fixing a bug in an estimator, framework or utility code
+As a reference figure, a single medium contributions is approximately a
+cumulative 10 working hour equivalent.
+
+Examples for medium contributions (code) are:
+
+* 5 small code contributions
+* successfully fixing a bug in an estimator, framework or utility code.
+  Acknowledging the substantial variance in bug complexity, 
 * successfully diagnosing a bug reported by a user, or contributing substantially to identifying the cause.
   Reports already including correct (or almost correct) diagnoses count towards the reporters' tally.
 * getting a code PR merged (bugfix, enhancement, etc)
 * reviewing a STEP or a PR that implements a STEP
-* taking on the release manager role for at least 3 sequential releases
 
-We count as medium contributions (community) any of:
+Examples for medium contributions (community) are:
 
-* at least 5 small community contributions
-* taking on mentorship for a community member for at least 6 meetings, in one of the ``sktime`` mentoring or internship programmes
-* organizing a presentation or workshop, involving and mentoring new contributors to present (just giving a presentation does not count)
-* donating at least 0.1% of one's country of residence's median disposable yearly household income (w.r.t. any reference value in the period) to an ``sktime`` charitable account
+* 5 small community contributions
+* participating in 3 mentoring meetings as co-mentor, in one of the ``sktime`` mentoring or internship programmes.
+  Full co-mentoring of a typical summer internship counts as 3 medium contributions.
+* organizing a presentation or workshop, optimally involving and mentoring new contributors to present.
+  Importantly, this should include the "background work" of preparation of materials (abstract submission, notebooks etc),
+  and the presentation should have community promoting character (not self-promoting).
+* donating the monetary equivalent of 10 hours median working wage of one's country of residence,
+  or one's own wage, whichever lower, to an ``sktime`` charitable account.
+  At most 3 such donations count towards contributions to prevent "buying influence" dynamics.
 
-We count as substantial contributions (community) any of:
+#### Substantial contributions
+
+As a reference figure, substantial contributions are of a
+cumulative 50 working hour equivalent or more.
+
+Where substantial contributions are referenced, they are typically considered
+within a time period - such time periods are part of the reference context.
+
+Examples for substantial contributions (community) are:
 
 * lead organizing a major community event, e.g., developer days
 * running one of the ``sktime`` mentoring or internship programmes for one full period (e.g., summer)
+* taking on mentorship for a junior community member for at least 9 meetings, in one of the ``sktime`` mentoring or internship programmes
 * organizing a series of workstream or roadmap meetings that lead to successful STEP and PR
-* acquiring funding in the order of 1 year of maintainer position, under strategic control of the ``sktime`` community
+* acquiring funding in the order of 1 year of maintainer position, under strategic control of the ``sktime`` community.
+  This should be fundraising or grants application, rather than a direct donation.
 * leading on a relevant workstream of administrative proceedings, e.g., drafting a contract, giving legal advice
-* carrying out one of the management team roles for at least 6 months according to expectation and specification
+* carrying out defined community roles with 1-2h weekly load for at least 6 months according to expectation and specification, e.g.:
+  * community council member
+  * treasurer
+  * fundraising manager
+
+Examples for substantial contributions (technical) are:
+
+* carrying out defined technical roles with 1-2h weekly load for at least 6 months according to expectation and specification, e.g.:
+  * release manager
 
 We count as substantial contributions any of:
-
-* more than 7 medium contributions in the period of any type. The overall contribution type(s) is/are determined by whichever type(s) reach(es) a count of 4 or more.
-
-
-Notes:
-
-* community contributions only count if they involve a majority of community members not from one's research group or direct network (by company affiliation or academic family tree)
-* Code or community contributions related exclusively to concrete estimators (or objects) owned by oneself do not count towards eligibility. Such contributions are an expected part of the algorithm maintainer role.
-* PR and repository changes pertaining to ``sktime`` governance do not count towards code contributions.
+* more than 5 medium contributions in the period of any type. The overall contribution type(s) is/are determined by whichever type(s) reach(es) a count of 3 or more.
