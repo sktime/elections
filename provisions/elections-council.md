@@ -2,7 +2,7 @@
 
 NOTE: the below are draft provisions for continuous council elections.
 
-The 2023 elections are subject to special provisions, and the elected council
+The 2024 elections are subject to special provisions, and the elected council
 will finalize the election provisions.
 
 
@@ -96,4 +96,4 @@ There is no contribution requirement for eligibility, as members are already ass
 
 3. Contribution requirement:
 
-candidates must have made substantial code or community contributions in the 18 months leading up to the election period, as defined in the contribution requirements document. [marrov: add link to contribution requirements]
+candidates must have made substantial code or community contributions in the 18 months leading up to the election period, as defined in the [contribution requirements document](https://github.com/sktime/elections/blob/main/contributions.md).

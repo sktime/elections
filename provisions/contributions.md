@@ -9,14 +9,15 @@ As qualitative guideline reference, a contributions refers to
 
 * work primarily towards the ``sktime`` project mission
 * within the ``sktime`` governance framework
-* not paid for by the ``sktime`` project
+* not paid for by the ``sktime`` project in the context of a work contract
+  (to avoid ambiguity: stipends, e.g., GSoC, are not work contracts)
 
 Qualitative non-examples would be:
 
 * work that primarily serves a different purpose, e.g., (self-)promotion
 * work not coordinated with project representatives,
-  e.g., collecting funding or donations without authorization
-* work in a paid developer or mentee role
+  e.g., collecting (or spending) funding/donations without authorization
+* work in a developer role subject to a paid contract
 
 Special non-examples:
 
