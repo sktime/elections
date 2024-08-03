@@ -1,10 +1,10 @@
-# Provisions for sktime council elections 2023
+# Provisions for sktime council elections 2024
 
 ## Seats and voting algorithm
 
 ### Seats and tenure
 
-* the 2023 sktime council elections are for all seven council seats
+* the 2024 sktime council elections are for all seven council seats
 * three seats are elected by the current council
 * four seats are elected by the general electorate (contributors)
 
@@ -24,8 +24,6 @@ Seats are filled in this order:
 7. cohort A, 1 year tenure, by general electorate
 
 ### Vote tallying algorithm
-
-[marrov: why is there a different preference list for general electorate vs council (4 vs 3)? If there is no clear benefit in making this distinction I would do top 3 for both which feels more natural in ranking election preferences.]
 
 Each voter from the general electorate fills in four polls:
 
@@ -65,17 +63,35 @@ Proceed with the four general electorate seats, using the same algorithm.
 ### Eligibility to vote
 
 1. voter registration completed in time
-2. contributor with any contribution registered in `allcontributor-src`
+2. contributor with any contribution registered in `allcontributor-src` (`sktime`, `skpro`, or `skbase`)
 3. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
 
 
 ### Eligibility to be elected
 
 1. candidates must be eligible to vote
-2. contributor with at least a "substantial" code or community contribution as defined in contribution requirements document
+2. contributor with at least a "substantial" code or community contribution as defined
+  in the [contribution requirements document](https://github.com/sktime/elections/blob/main/contributions.md),
+  within the 18 calendar months prior to the election date
 3. candidates must have registered in time
 4. candidates must have submitted a candidate statement with their registration, intended for publication
 5. candidates must have truthfully declared their full name, primary affiliations, and any conflicts of interest in their candidate statement
 
+## Arbitration and administration of the election process
 
-TODO: link contributions doc in appropriate places
+The 2024 voting process is implemented and overseen by the current code of conduct committee
+(chair: Dr Franz Kiraly), carrying out functions of an elections committee and arbitration committee.
+
+The current council recognizes: the experimental nature of the widened governance model;
+the transitionality of the current setup; and the potentially
+adverserial nature of an open source ecosystem under increasing competitive pressure.
+
+The council is committed to ensure a peaceful and efficient transition to the
+more professional governance model, and to protect the guiding vision
+behind the elections, that of openly goverend open source AI software that benefits all.
+
+For this reason, the elections committee and the current council reserve
+their rights to make amendments to the provisions
+in the present transitional situation, when (and, strictly, only when) necessary
+in order to ensure the vision is protected and realized, e.g.,
+for the purposes of security, minimizing interference, or ensuring process robustness.
