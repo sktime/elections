@@ -62,7 +62,7 @@ Proceed with the four general electorate seats, using the same algorithm.
 
 ### Eligibility to vote
 
-1. voter registration completed in time
+1. voter registration completed in time - [voter registration form](https://forms.gle/tTFFbwTe5eYcheJQA)
 2. contributor with any contribution registered in `allcontributor-src` (`sktime`, `skpro`, or `skbase`)
 3. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
 

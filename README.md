@@ -75,7 +75,7 @@ All times are midnight UTC, end of the day.
 
 1. read the [eligibility criteria here](https://github.com/sktime/elections/blob/main/provisions/elections-council-2024.md)
 2. 2024-09-22 or before - check the `all-contributors` file (of `sktime`, `skpro`, or `skbase`), whether you have a badge. If not, open a PR asap with pointers to your contribution.If a user, note that filling out the [user feedback form](https://forms.gle/eVuzrCjKDRupxawL7) counts as contribution towards a badge.
-3. 2024-09-22 or before - fill out voter registration form
+3. 2024-09-22 or before - fill out and submit [voter registration form](https://forms.gle/tTFFbwTe5eYcheJQA)
 4. until 2024-10-01 - optional: participate in candidate Q&A
 5. 2024-10-01 - 2024-10-07 - vote on discord
 
