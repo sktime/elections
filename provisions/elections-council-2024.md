@@ -43,9 +43,10 @@ Votes are tallied as follows:
 Proceed with the seats ordered as above, 1-7.
 
 1. consider the the open seat with lowest number.
-  Let n be its order for the group determining the seat (council or general electorate),
+  Let n be its order rank to be filled,
+  by the group determining the seat (council or general electorate),
   this will be an integer, between 1 and 4.
-  Find the candidate with most mentions in the top n preferences vote of that group.
+  Find the candidate with most mentions in the "top n preferences" vote of that group.
 2. check exclusion criteria for the candidate. If not met, seat the candidate.
   Eliminate the candidate from further seatings, in any case.
 3. Goto 1 until no more seats or candidates remain.
