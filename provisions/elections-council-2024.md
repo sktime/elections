@@ -2,6 +2,12 @@
 
 ## Seats and voting algorithm
 
+### Roles
+
+The elections are for community council member seats.
+
+See role specification here: https://www.sktime.net/en/stable/get_involved/governance.html
+
 ### Seats and tenure
 
 * the 2024 sktime council elections are for all seven council seats
