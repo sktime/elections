@@ -82,8 +82,8 @@ All times are midnight UTC, end of the day.
 ## Todos - candidates
 
 1. read the [eligibility criteria here](https://github.com/sktime/elections/blob/main/provisions/elections-council-2024.md#eligibility-to-be-elected)
-2. 2024-09-08 - read information published at opening of candidate registration
-3. 2024-09-22 or before - register and submit a candidate statement
+2. 2024-09-08 - read information published at opening of candidate registration ([discord link](https://discord.com/channels/1075852648688930887/1080978658874904658/1282460549590024278))
+3. 2024-09-22 or before - register and submit a candidate statement - [candidate registration form](https://forms.gle/j4thBthvve6i2gRS6)
 4. until 2024-10-01 - participate candidate Q&A
 5. 2024-10-01 - 2024-10-07 - vote on discord
 6. 2024-10-10 or earlier - results are announced. If successful, you will receive communicaction on onboarding.
