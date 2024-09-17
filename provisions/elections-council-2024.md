@@ -78,7 +78,7 @@ Proceed with the four general electorate seats, using the same algorithm.
 
 1. candidates must be eligible to vote
 2. contributor with at least a "substantial" code or community contribution as defined
-  in the [contribution requirements document](https://github.com/sktime/elections/blob/main/contributions.md),
+  in the [contribution requirements document](https://github.com/sktime/elections/blob/main/provisions/contributions.md),
   within the 18 calendar months prior to the election date
 3. candidates must have registered in time
 4. candidates must have submitted a candidate statement with their registration, intended for publication
