@@ -119,7 +119,7 @@ keeping the community safe and healthy.
 Unfortunately, such threats are not surprising,
 due to the large value that one could squeeze
 out of privatizing the infrastructure. Further, the openly governed model
-of `sktime` that is widely visible and prototypical, hence a threat to the ideology
+of `sktime` is widely visible and prototypical, hence a threat to the ideology
 that considers open source as successful only if it turns into a company incorporated
 in Texas or Delaware, owned by a few male, white, rich American venture capitalists and,
 if they are merciful, one or two obedient members of the community.
