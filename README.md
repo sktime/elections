@@ -22,8 +22,8 @@ The above is a variant of opening four seats, with three seats in continuity wit
 
 As this is the first cohort of elected councilors, tenure for the open positions will vary between 1 and 3 years. In particular there will be:
 
-* 3 seats open with a 3-year tenure.
-* 2 seats open with a 2-year tenure. 
+* 2 seats open with a 3-year tenure.
+* 3 seats open with a 2-year tenure. 
 * 2 seats open with a 1-year tenure.
 
 See [detail description here](https://github.com/sktime/elections/blob/main/provisions/elections-council-2024.md#seats-and-voting-algorithm).
