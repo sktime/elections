@@ -1,6 +1,6 @@
 # :postbox: 2024 `sktime` council elections
 
-The 2024 council elections took place Sep-Oct 2024.
+The 2024 council elections took place Sep-Oct 2024. Results were announced on the community discord in October 2024.
 
 Elected:
 
