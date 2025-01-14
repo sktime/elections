@@ -1,5 +1,25 @@
 # :postbox: 2024 `sktime` council elections
 
+The 2024 council elections took place Sep-Oct 2024.
+
+Elected:
+
+Cohort C - 3 year tenure
+
+* seat 1: Kiraly, Franz
+* seat 2: Nshuti, Felix Hirwa
+
+Cohort B - 2 year tenure
+
+* seat 3: Onyeka, Ugochukwu
+* seat 4: Rovira, Marc
+
+Also see the [page with full results](https://github.com/sktime/elections/blob/main/2024-results/README.md)
+
+The 2024 announcment page is below, for reference.
+
+---
+
 :mega: `sktime` is holding its first set of community council elections!
 
 * :sunny: We believe in open source and open science. We think AI technology - especially open source - should be openly governed.
