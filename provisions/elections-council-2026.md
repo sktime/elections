@@ -1,4 +1,4 @@
-# Provisions for sktime council elections 2024
+# Provisions for sktime council elections 2026
 
 ## Seats and voting algorithm
 
@@ -23,13 +23,13 @@ All cohorts are planned for 3 years tenure.
 
 All seats, with numbering, are as follows:
 
-1. cohort C, 3 years tenure, by current council
-2. cohort C, 3 years tenure, by general electorate
-3. cohort B, 2 years tenure, by current council
-4. cohort B, 2 years tenure, by general electorate
-5. cohort B, 2 years tenure, by general electorate
-6. cohort A, 1 year tenure, by current council
-7. cohort A, 1 year tenure, by general electorate
+1. cohort C, by current council
+2. cohort C, by general electorate
+3. cohort B, by current council
+4. cohort B, by general electorate
+5. cohort B, by general electorate
+6. cohort A, by current council
+7. cohort A, by general electorate
 
 The current status of seats is as follows:
 
@@ -64,7 +64,7 @@ Each voter from the current council fills in three polls:
 
 Votes are tallied as follows:
 
-Proceed with the seats ordered as above, 1-7.
+Proceed with the council elected seats, in the order as stated above:
 
 1. consider the the open seat with lowest number.
   Let n be its order rank to be filled,
@@ -75,7 +75,9 @@ Proceed with the seats ordered as above, 1-7.
   Eliminate the candidate from further seatings, in any case.
 3. Goto 1 until no more seats or candidates remain.
 
-Proceed with the four general electorate seats, using the same algorithm.
+Then proceed with the general electorate seats, using the same algorithm.
+
+Ties are broken uniformly at random.
 
 ### Exclusion rules
 

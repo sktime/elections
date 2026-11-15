@@ -77,11 +77,11 @@ All times are midnight UTC, end of the day.
 ## Todos - voters
 
 1. read the [eligibility criteria here](https://github.com/sktime/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-vote)
-2. 2026-11-29 or before - check the `all-contributors` file (of `sktime`, `skpro`, or `skbase`), whether you have a badge. If not, open a PR asap with pointers to your contribution. If a user, note that filling out the [user feedback form](https://forms.gle/eVuzrCjKDRupxawL7) counts as contribution towards a badge.
+2. 2026-11-29 or before - check the `all-contributors` file (of `sktime`, `skpro`, `pytorch-forecasting`, or `skbase`), whether you have a badge. If not, open a PR asap with pointers to your contribution. If a user, note that filling out the [user feedback form](https://forms.gle/eVuzrCjKDRupxawL7) counts as contribution towards a badge.
 3. 2026-11-29 or before - fill out and submit [voter registration form](https://forms.cloud.microsoft/e/SKN8Mxa17L)
-4. 2026-11-01 or after - read candidate statements published [here](https://github.com/sktime/elections/tree/main/2026-candidate-statements)
+4. 2026-12-01 or after - read candidate statements published [here](https://github.com/sktime/elections/tree/main/2026-candidate-statements)
 5. until 2026-12-08 - optional: participate in candidate Q&A
-6. 2026-12-08 - 2024-12-15 - vote on discord
+6. 2026-12-08 - 2026-12-15 - vote on discord
 
 ## Todos - candidates
 
