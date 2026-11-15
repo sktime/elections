@@ -87,7 +87,7 @@ Proceed with the four general electorate seats, using the same algorithm.
 
 ### Eligibility to vote
 
-1. voter registration completed in time - [voter registration form](https://forms.gle/tTFFbwTe5eYcheJQA)
+1. voter registration completed in time - [voter registration form](https://forms.cloud.microsoft/e/SKN8Mxa17L)
 2. contributor with any contribution registered in `allcontributor-src` (`sktime`, `skpro`, `pytorch-forecasting`, or `scikit-base`)
 3. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
 

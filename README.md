@@ -78,7 +78,7 @@ All times are midnight UTC, end of the day.
 
 1. read the [eligibility criteria here](https://github.com/sktime/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-vote)
 2. 2026-11-29 or before - check the `all-contributors` file (of `sktime`, `skpro`, or `skbase`), whether you have a badge. If not, open a PR asap with pointers to your contribution. If a user, note that filling out the [user feedback form](https://forms.gle/eVuzrCjKDRupxawL7) counts as contribution towards a badge.
-3. 2026-11-29 or before - fill out and submit [voter registration form](https://forms.gle/tTFFbwTe5eYcheJQA)
+3. 2026-11-29 or before - fill out and submit [voter registration form](https://forms.cloud.microsoft/e/SKN8Mxa17L)
 4. 2026-11-01 or after - read candidate statements published [here](https://github.com/sktime/elections/tree/main/2026-candidate-statements)
 5. until 2026-12-08 - optional: participate in candidate Q&A
 6. 2026-12-08 - 2024-12-15 - vote on discord
@@ -86,8 +86,8 @@ All times are midnight UTC, end of the day.
 ## Todos - candidates
 
 1. read the [eligibility criteria here](https://github.com/sktime/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-be-elected)
-2. 2026-11-22 - read information published at opening of candidate registration ([discord link](https://discord.com/channels/1075852648688930887/1080978658874904658/1282460549590024278))
-3. 2026-11-29 or before - register and submit a candidate statement - [candidate registration form](https://forms.gle/j4thBthvve6i2gRS6)
+2. 2026-11-22 - read information published at opening of candidate registration on the sktime discord (link to be added here)
+3. 2026-11-29 or before - register and submit a candidate statement - [candidate registration form](https://forms.cloud.microsoft/e/WGbNKMVy10)
 4. until 2026-12-08 - participate candidate Q&A
 5. 2026-12-08 - 2026-12-15 - vote on discord
 6. 2026-12-17 or earlier - results are announced. If successful, you will receive communicaction on onboarding.
