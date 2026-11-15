@@ -17,9 +17,9 @@ See role specification here: https://www.sktime.net/en/stable/get_involved/gover
 There are three shifted cohorts, cohort A, B, C.
 All cohorts are planned for 3 years tenure.
 
-* seats in cohort C start at 2024.
-* seats in cohort B start at 2026.
-* seats in cohort A start at 2025.
+* seats in cohort A start with a 3-year period 2025-2028.
+* seats in cohort B start with a 3-year period 2026-2029.
+* seats in cohort C start with a 3-year period 2024-2027.
 
 All seats, with numbering, are as follows:
 
