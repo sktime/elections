@@ -86,7 +86,7 @@ All times are midnight UTC, end of the day.
 ## Todos - candidates
 
 1. read the [eligibility criteria here](https://github.com/sktime/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-be-elected)
-2. 2026-11-22 - read information published at opening of candidate registration on the sktime discord (link to be added here)
+2. 2026-11-22 - read information published at opening of candidate registration, below
 3. 2026-11-29 or before - register and submit a candidate statement - [candidate registration form](https://forms.cloud.microsoft/e/WGbNKMVy10)
 4. until 2026-12-08 - participate candidate Q&A
 5. 2026-12-08 - 2026-12-15 - vote on discord
